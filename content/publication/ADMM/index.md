@@ -3,7 +3,7 @@
 
 title: "Identification of gene pairs through penalized regression
 Subject to constraints"
-authors: [Rex Shen, Lan Luo and Hui Jiang]
+authors: [Rex Shen, Lan Luo, Hui Jiang]
 date: 2019-06-22T14:27:48-07:00
 doi: ""
 
