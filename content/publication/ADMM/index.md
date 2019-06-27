@@ -3,7 +3,7 @@
 
 title: "Identification of gene pairs through penalized regression
 Subject to constraints"
-authors: [Rex Shen, Lan Luo and Hui Jiang]
+authors: []
 date: 2019-06-22T14:27:48-07:00
 doi: ""
 
@@ -20,12 +20,12 @@ publication_types: ["2"]
 publication: ""
 publication_short: ""
 
-abstract: "In this paper, we propose a parsimonious model representation and develop efficient algorithms for identification. Particularly, we derive an equivalent model subject to a sum-to-zero constraint in penalized linear regression, where the correspondence between nonzero coefficients in these models is established. Most importantly, it reduces the model complexity of the traditional approach from the quadratic order to the linear order in the number of candidate genes, while overcoming the difficulty of model nonidentifiablity. Computationally, we develop an algorithm using the alternating direction method of multipliers (ADMM) to deal with the constraint. Numerically, we demonstrate that the proposed method outperforms the traditional method in terms of the statistical accuracy. Moreover, we demonstrate that our ADMM algorithm is more computationally efficient than a coordinate descent algorithm with a local search. Finally, we illustrate the proposed method on a prostate cancer dataset to identify gene pairs that are associated with pre-operative prostate-specific antigen."
+abstract: """In this paper, we propose a parsimonious model representation and develop efficient algorithms for identification. Particularly, we derive an equivalent model subject to a sum-to-zero constraint in penalized linear regression, where the correspondence between nonzero coefficients in these models is established. Most importantly, it reduces the model complexity of the traditional approach from the quadratic order to the linear order in the number of candidate genes, while overcoming the difficulty of model nonidentifiablity. Computationally, we develop an algorithm using the alternating direction method of multipliers (ADMM) to deal with the constraint. Numerically, we demonstrate that the proposed method outperforms the traditional method in terms of the statistical accuracy. Moreover, we demonstrate that our ADMM algorithm is more computationally efficient than a coordinate descent algorithm with a local search. Finally, we illustrate the proposed method on a prostate cancer dataset to identify gene pairs that are associated with pre-operative prostate-specific antigen."""
 
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: [Gene pair, Biomarker, Penalized regression, ADMM]
+tags: []
 categories: []
 featured: false
 
