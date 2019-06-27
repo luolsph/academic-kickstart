@@ -134,28 +134,28 @@ sharing = true
   citation_style = "apa"
 
 # Configuration of project pages.
-[projects]
+#[projects]
   # Views for associated content.
   #   1: List
   #   2: Compact
   #   3: Card
   #   4: Citation (publications only)
-  post_view = 2
-  publication_view = 2
-  talk_view = 2
+#  post_view = 2
+#  publication_view = 2
+#  talk_view = 2
 
 # Search.
-[search]
+#[search]
   # Search provider:
   #   0: No search engine
   #   1: Academic (built-in)
   #   2: Algolia (https://www.algolia.com)
-  engine = 0
+#  engine = 0
 
   # Configuration of Algolia search engine.
   # Paste the values from your Algolia dashboard.
-  [search.algolia]
-    app_id = ""
-    api_key = ""
-    index_name = ""
-    show_logo = false
+#  [search.algolia]
+#    app_id = ""
+#    api_key = ""
+#    index_name = ""
+#    show_logo = false
