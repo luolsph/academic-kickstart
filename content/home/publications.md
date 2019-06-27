@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
-title = "Recent Publications"
+title = "Publications"
 subtitle = ""
 
 [content]
@@ -60,10 +60,10 @@ subtitle = ""
   
 [advanced]
  # Custom CSS. 
- css_style = ""
+# css_style = ""
  
  # CSS class.
- css_class = ""
+# css_class = ""
 +++
 
 {{% alert note %}}
