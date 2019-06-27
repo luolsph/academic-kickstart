@@ -42,11 +42,10 @@ date_format = "Jan 2006"
   date_start = "2019-05-28"
   date_end = ""
   description = """Continuous monitoring of A/B testing with valid confidence intervals """
-#  Responsibilities include:
   
-#  * Analysing
-#  * Modelling
-#  * Deploying
+  * Type I error control with mixture Sequential Probability Ratio Test (mSPRT) and alpha-spending function methods
+  * Power analysis
+  * Multiple sequential testing
 #  """
 
 [[experience]]
