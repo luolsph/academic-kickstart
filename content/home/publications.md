@@ -60,12 +60,9 @@ subtitle = ""
   
 [advanced]
  # Custom CSS. 
-# css_style = ""
+ css_style = ""
  
  # CSS class.
-# css_class = ""
+ css_class = ""
 +++
 
-#{{% alert note %}}
-#Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
-#{{% /alert %}}
