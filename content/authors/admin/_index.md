@@ -15,7 +15,7 @@ role: PhD Candidate
 # Organizations/Affiliations
 organizations:
 - name: University of Michigan
-  url: ""
+  url: "https://sph.umich.edu/biostat/index.html"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include streaming data analysis, online learning, change-point detection, sequential testing and longitudinal data analysis.
@@ -56,9 +56,9 @@ social:
   link: https://github.com/luolsph
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
- - icon: cv
-   icon_pack: ai
-   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -70,4 +70,4 @@ email: ""
 #- Visitors
 ---
 
-I am a third-year PhD Candidate in the Department of Biostatistics at the University of Michigan. I graduated from Huazhong University of Science and Technology with a BSc in Biology in 2013, and obtained MS in Biostatistics at the University of Michigan in 2016. My PhD thesis develops real-time regression analysis for both cross-sectional and longitudinal data, advised by Professor Peter X.K. Song. I am also working as a graduate student research assistant (GSRA) on Black Women’s Wellness Project.
+I am a third-year PhD Candidate in the Department of Biostatistics at the University of Michigan. I graduated from Huazhong University of Science and Technology with a BSc in Biology in 2013, and obtained MS in Biostatistics at the University of Michigan in 2016. My dissertation research focuses on developing real-time regression analysis methods for both cross-sectional and longitudinal data, advised by Professor Peter X.K. Song. I am also working as a graduate student research assistant (GSRA) on Black Women’s Wellness Project.
