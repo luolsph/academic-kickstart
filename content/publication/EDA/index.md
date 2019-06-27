@@ -4,7 +4,7 @@
 title: "Novel EDA p.Ile260Ser Mutation Linked to Non-syndromic Hypodontia"
 authors: []
 date: 2013-04-26
-doi: ""
+doi: "10.1177/0022034513487557"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2019-06-22T14:27:55-07:00
@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf:https://www.researchgate.net/profile/Peng_Zhu8/publication/236460519_Novel_EDA_pIle260Ser_Mutation_Linked_to_Non-syndromic_Hypodontia/links/00b7d52a96cfd3bcc9000000/Novel-EDA-pIle260Ser-Mutation-Linked-to-Non-syndromic-Hypodontia.pdf
 url_code:
 url_dataset:
 url_poster:
