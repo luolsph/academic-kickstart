@@ -5,7 +5,7 @@ title: "Detection and Prediction of Ovulation from Body Temperature Measured
 by An In-Ear Wearable Therometer"
 authors: [Lan Luo, Xichen She, Jiexuan Cao, Yunlong Zhang, Yijiang Li, Peter X.K. Song]
 date: 2019-05-15
-doi: "10.1109/TBME.2019.2916823"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2019-06-22T14:10:34-07:00
