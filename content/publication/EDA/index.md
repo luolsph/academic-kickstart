@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:https://www.researchgate.net/profile/Peng_Zhu8/publication/236460519_Novel_EDA_pIle260Ser_Mutation_Linked_to_Non-syndromic_Hypodontia/links/00b7d52a96cfd3bcc9000000/Novel-EDA-pIle260Ser-Mutation-Linked-to-Non-syndromic-Hypodontia.pdf
+url_pdf:
 url_code:
 url_dataset:
 url_poster:
