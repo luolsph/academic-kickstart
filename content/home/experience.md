@@ -26,6 +26,7 @@ date_format = "Jan 2006"
   date_start = "2016-09-01"
   date_end = ""
   description = """Streaming data analytics and real-time regression analysis
+ 
   Projects include:
   
   * Real-time regression analysis in generalized linear models
@@ -57,6 +58,7 @@ date_format = "Jan 2006"
   date_end = ""
   description = """ Black women's wellness project, evaluating factors that associated with weight changes
   in intervention and control groups
+  
   Responsibilities include:
   
   * Randomization
