@@ -15,7 +15,7 @@ role: PhD Candidate
 # Organizations/Affiliations
 organizations:
 - name: University of Michigan
-  url: "https://sph.umich.edu/biostat/index.html"
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include streaming data analysis, online learning, change-point detection, sequential testing and longitudinal data analysis.
