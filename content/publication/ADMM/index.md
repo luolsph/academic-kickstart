@@ -3,7 +3,7 @@
 
 title: "Identification of gene pairs through penalized regression
 Subject to constraints"
-authors: []
+authors: [Rex Shen, Lan Luo and Hui Jiang]
 date: 2019-06-22T14:27:48-07:00
 doi: ""
 
@@ -25,7 +25,7 @@ abstract: ""
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: []
+tags: [Gene pair, Biomarker, Penalized regression, ADMM]
 categories: []
 featured: false
 
