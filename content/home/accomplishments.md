@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Awards & Accomplish-ments"
+title = "Awards & Accomplish&shy;ments"
 subtitle = ""
 
 # Date format
@@ -20,11 +20,11 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "Rackham Graduate School, University of Michigan"
-#  organization_url = "https://www.coursera.org"
+  organization_url = "https://rackham.umich.edu/"
   title = "Rackham Predoctoral Fellowship for Academic Year 2019-2020"
-  url = ""
+  url = "https://rackham.umich.edu/discover-rackham/announcing-the-2019-2020-rackham-predoctoral-fellowship-winners/"
 #  certificate_url = "https://www.coursera.org"
-  date_start = "2019-02-01"
+  date_start = "2019-09-01"
   date_end = ""
   description = """The Rackham Predoctoral Fellowship supports outstanding doctoral 
   students who have achieved candidacy and are actively working on dissertation research
@@ -32,7 +32,7 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "aUM Yoga Studio"
-#  organization_url = "https://www.edx.org"
+  organization_url = "https://www.aumyogaannarbor.com/"
   title = "200-Hour Yoga Teacher Training Certificate"
 #  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
 #  certificate_url = "https://www.edx.org"
@@ -43,7 +43,7 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "The International Biometric Society Eastern North American Region (ENAR)"
-#  organization_url = "https://www.edx.org"
+  organization_url = "https://www.enar.org/"
   title = "2019 ENAR Distinguished Student Paper Award"
 #  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
 #  certificate_url = "https://www.edx.org"
@@ -53,7 +53,7 @@ date_format = "Jan 2006"
   
 [[item]]
   organization = "The Michigan Institute for Data Science (MIDAS)"
-#  organization_url = "https://www.datacamp.com"
+  organization_url = "https://midas.umich.edu/"
   title = "2018 MIDAS Annual Symposium Poster Award of Most Innovative Use of Data"
 #  url = ""
 #  certificate_url = "https://www.datacamp.com"
