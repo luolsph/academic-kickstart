@@ -17,7 +17,7 @@ publishDate: 2019-06-22T14:27:48-07:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "BMC Bioinformatics"
 publication_short: ""
 
 abstract: ""
