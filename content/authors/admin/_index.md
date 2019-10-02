@@ -24,6 +24,7 @@ interests:
 - Streaming processing
 - Change-point detection
 - Sequential testing
+- Mobile health
 
 education:
   courses:
