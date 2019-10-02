@@ -19,7 +19,8 @@ publication_types: ["3"]
 # Publication name and optional abbreviated publication name.
 publication: "Journal of the Royal Statistical Society: Series B (Statistical Methodology) 
 (2nd invited revision submitted)"
-publication_short: ""
+publication_short: "Journal of the Royal Statistical Society: Series B (Statistical Methodology) 
+(2nd invited revision submitted)"
 
 abstract: ""
 
