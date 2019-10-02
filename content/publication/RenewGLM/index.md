@@ -2,9 +2,9 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Renewable Estimation and Incremental Inference in Generalized Linear Models
-with Streaming Datasets"
+with Streaming Datasets (2nd minor revision submitted)"
 authors: [Lan Luo, Peter X.-K. Song]
-date: 2019
+date: 2019-10-22T14:27:48-07:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -12,7 +12,7 @@ publishDate: 2019-06-22T14:27:48-07:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# 3 = Under review; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
 publication_types: ["3"]
 
