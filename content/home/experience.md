@@ -30,8 +30,8 @@ date_format = "Jan 2006"
   Projects include:
   
   * Real-time regression analysis in generalized linear models
-  * Real-time regression analysis in longitudinal data models
-  * Renewable estimation and inference with Kalman filter
+  * Real-time regression analysis in longitudinal data models with quality control
+  * Renewable estimation with dynamic streaming datasets using Kalman filter
   """
 
 
@@ -41,10 +41,10 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Mountain View, California"
   date_start = "2019-05-28"
-  date_end = ""
+  date_end = "2019-08-30"
   description = """Continuous monitoring of A/B testing with valid confidence intervals
   
-  * Type I error control with mixture Sequential Probability Ratio Test (mSPRT) and alpha-spending function methods
+  * Type I error control with mixture Sequential Probability Ratio Test (mSPRT) method
   * Power analysis
   * Multiple sequential testing
   """
