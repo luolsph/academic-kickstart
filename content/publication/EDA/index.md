@@ -2,7 +2,8 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Novel EDA p.Ile260Ser Mutation Linked to Non-syndromic Hypodontia"
-authors: []
+authors: [Y. Yang, L. Luo, J. Xu, P. Zhu, W. Xue, J. Wang, W. Li, M. Wang, K. Cheng,
+S. Liu, Z. Tang, B.Z. Ring, L. Su]
 date: 2013-04-26
 doi: "https://doi.org/10.1177/0022034513487557"
 
@@ -36,7 +37,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: https://journals.sagepub.com/doi/pdf/10.1177/0022034513487557
 url_code:
 url_dataset:
 url_poster:
