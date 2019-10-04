@@ -43,9 +43,14 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: "mailto:luolsph@umich.edu"  # For a direct email link, use "mailto:test@example.org".
+#- icon: envelope
+#  icon_pack: fas
+#  link: "mailto:luolsph@umich.edu"  # For a direct email link, use "mailto:test@example.org".
+  <li>
+          <a itemprop="sameAs" href="mailto:luolsph@umich.edu" >
+            <i class="fas fa-envelope big-icon"></i>
+          </a>
+        </li>
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
