@@ -9,6 +9,7 @@ view: 2
 
 # Optional header image (relative to `static/img/` folder).
 header:
-  caption: ""
+  caption: "xxx"
   image: ""
+  link: files/cv.pdf
 ---
