@@ -4,7 +4,7 @@
 title: "Renewable Estimation and Incremental Inference in Generalized Linear Models
 with Streaming Datasets"
 authors: [Lan Luo, Peter X.-K. Song]
-date: 2019-10-22T14:27:48-07:00
+date: 2019-10-18T14:27:48-07:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -18,7 +18,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Journal of the Royal Statistical Society: Series B (Statistical Methodology) 
-(2nd invited revision submitted)"
+(accepted)"
 publication_short: ""
 
 abstract: ""
