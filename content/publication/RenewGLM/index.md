@@ -21,7 +21,7 @@ publication: "Journal of the Royal Statistical Society: Series B (Statistical Me
 (accepted)"
 publication_short: ""
 
-abstract: ""
+abstract: "This paper presents an incremental updating algorithm to analyze streaming datasets using generalized linear models. The proposed method is formulated within a new framework of renewable estimation and incremental inference, in which the estimates are renewed with current data and summary statistics of historical data. We design a new paradigm named as the Rho architecture consisting of two data-processing lay- ers to implement the proposed method. This implementation platform expands the current popular Apache Spark Lambda architecture which enables to accommodate the inference-related statistics and to facilitate sequential updating of estimation and inference. Both estimation consistency and asymptotic normality of the renewable estimator are established, through which the Wald test is utilized for incremental inference. Our methods are examined and illustrated by various numerical examples from both simulation experiments and a real-world data analysis."
 
 # Summary. An optional shortened abstract.
 summary: ""
