@@ -39,7 +39,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: 
+url_pdf: https://drive.google.com/file/d/1WsQgUjAHv25Ql5jVW0uIarIn39V_0P-k/view?usp=sharing
 url_code: https://github.com/luolsph/RenewGLM_pkg
 url_dataset:
 url_poster: https://drive.google.com/file/d/1s9m6lB5HDWhc9jFlHGPnq7-Q3peC5bdh/view?usp=sharing
