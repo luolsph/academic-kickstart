@@ -26,7 +26,7 @@ date_format = "Jan 2006"
 #  certificate_url = ""
   date_start = "2019-11-08"
   date_end = ""
-  description = """The Department of Biostatistics annual Student Research Award is given to one student per year, based on a broad range of research, including both statistical methods and applications"""
+  description = """"""
   
 [[item]]
   organization = "Rackham Graduate School, University of Michigan"
