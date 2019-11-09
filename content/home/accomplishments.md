@@ -19,6 +19,16 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "Department of Biostatistics, School of Public Health"
+  organization_url = "https://sph.umich.edu/biostat/index.html"
+  title = "2019 Excellence in Research Honorable Mention"
+#  url = "https://rackham.umich.edu/discover-rackham/announcing-the-2019-2020-rackham-predoctoral-fellowship-winners/"
+  certificate_url = "https://drive.google.com/file/d/1gnyLHLm21IMX8qEVF-JeAGLE1zBVIFeu/view?usp=sharing"
+  date_start = "2019-11-08"
+  date_end = ""
+  description = """The Department of Biostatistics annual Student Research Award is given to one student per year, based on a broad range of research, including both statistical methods and applications"""
+  
+[[item]]
   organization = "Rackham Graduate School, University of Michigan"
   organization_url = "https://rackham.umich.edu/"
   title = "Rackham Predoctoral Fellowship for Academic Year 2019-2020"
