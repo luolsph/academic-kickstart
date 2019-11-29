@@ -30,13 +30,13 @@ education:
   courses:
   - course: PhD candidate in Biostatistics
     institution: University of Michigan - Ann Arbor
-    year: 2016
+    year: 2020 (expected)
   - course: MS in Biostatistics
     institution: University of Michigan - Ann Arbor
-    year: 2014
+    year: 2016
   - course: BS in Biology
     institution: Huazhong University of Science and Technology
-    year: 2009
+    year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
