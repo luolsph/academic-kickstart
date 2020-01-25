@@ -4,7 +4,7 @@
 title: "Renewable Estimation and Incremental Inference in Generalized Linear Models
 with Streaming Datasets"
 authors: [Lan Luo, Peter X.-K. Song]
-date: 2019-10-18T14:27:48-07:00
+date: 2020-10-18T14:27:48-07:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -17,7 +17,7 @@ publishDate: 2019-06-22T14:27:48-07:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Journal of the Royal Statistical Society: Series B (2020) 82, Part 1, 69-97"
+publication: "Journal of the Royal Statistical Society: Series B, 82, Part 1, 69-97"
 publication_short: ""
 
 abstract: "This paper presents an incremental updating algorithm to analyze streaming datasets using generalized linear models. The proposed method is formulated within a new framework of renewable estimation and incremental inference, in which the estimates are renewed with current data and summary statistics of historical data. We design a new paradigm named as the Rho architecture consisting of two data-processing layers to implement the proposed method. This implementation platform expands the current popular Apache Spark Lambda architecture which enables to accommodate the inference-related statistics and to facilitate sequential updating of estimation and inference. Both estimation consistency and asymptotic normality of the renewable estimator are established, through which the Wald test is utilized for incremental inference. Our methods are examined and illustrated by various numerical examples from both simulation experiments and a real-world data analysis."
