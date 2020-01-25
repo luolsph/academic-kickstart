@@ -5,7 +5,7 @@ title: "Renewable Estimation and Incremental Inference in Generalized Linear Mod
 with Streaming Datasets"
 authors: [Lan Luo, Peter X.-K. Song]
 date: 2020-10-18T14:27:48-07:00
-doi: ""
+doi: "https://rss.onlinelibrary.wiley.com/doi/full/10.1111/rssb.12352"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2019-06-22T14:27:48-07:00
@@ -38,7 +38,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://rss.onlinelibrary.wiley.com/doi/full/10.1111/rssb.12352
+#url_pdf: https://rss.onlinelibrary.wiley.com/doi/full/10.1111/rssb.12352
 url_code: https://github.com/luolsph/RenewGLM_pkg
 url_dataset:
 url_poster: https://drive.google.com/file/d/1s9m6lB5HDWhc9jFlHGPnq7-Q3peC5bdh/view?usp=sharing
