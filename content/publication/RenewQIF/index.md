@@ -3,7 +3,7 @@
 
 title: "Real-time Regression Analysis of Streaming Clustered Data With Possible Abnormal Data Batches."
 authors: [Lan Luo, Peter X.-K. Song]
-date: 2019-10-22T14:27:48-07:00
+date: 2020-10-22T14:27:48-07:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
