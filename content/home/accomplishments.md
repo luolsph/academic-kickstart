@@ -19,6 +19,16 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "SLDS 2020 Student Paper Competition Committee"
+  organization_url = "https://asaslds.github.io/SLDS2020/"
+  title = "Student Paper Competition Award for Statistical Learning and Data Science (SLDS) 2020"
+#  url = "https://drive.google.com/file/d/1gnyLHLm21IMX8qEVF-JeAGLE1zBVIFeu/view?usp=sharing"
+#  certificate_url = ""
+  date_start = "2020-03-11"
+  date_end = ""
+  description = """"""
+  
+[[item]]
   organization = "Department of Biostatistics, School of Public Health"
   organization_url = "https://sph.umich.edu/biostat/index.html"
   title = "2019 Excellence in Research Honorable Mention"
