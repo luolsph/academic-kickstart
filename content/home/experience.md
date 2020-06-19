@@ -24,14 +24,14 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Ann Arbor, Michigan"
   date_start = "2016-09-01"
-  date_end = ""
-  description = """Streaming data analytics and real-time regression analysis
+  date_end = "2020-05-29"
+  description = """Renewable Estimation and Incremental Inference with Streaming Health Datasets
  
   Projects include:
   
   * Real-time regression analysis in generalized linear models
-  * Real-time regression analysis in longitudinal data models with quality control
-  * Renewable estimation with dynamic streaming datasets using Kalman filter
+  * Real-time regression analysis with cluster-correlated streaming data
+  * Multivariate online regression analysis with Heterogeneous streaming data
   """
 
 
@@ -55,7 +55,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Ann Arbor, Michigan"
   date_start = "2017-09-01"
-  date_end = ""
+  date_end = "2019-04-30"
   description = """ Black women's wellness project, evaluating factors that associated with weight changes
   in intervention and control groups
   
