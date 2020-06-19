@@ -29,6 +29,19 @@ date_format = "Jan 2006"
   description = """"""
   
 [[item]]
+  organization = "Department of Biostatistics and Department of Statistics at UMICH"
+#  organization_url = "https://asaslds.github.io/SLDS2020/"
+  title = "Winning Proposal in the 2020 Joint Shark Tank Retreat"
+#  url = "https://drive.google.com/file/d/1gnyLHLm21IMX8qEVF-JeAGLE1zBVIFeu/view?usp=sharing"
+#  certificate_url = ""
+  date_start = "2020-02-14"
+  date_end = ""
+  description = """This is an event to encourage collaboration between biostatistics
+  and statistics PhD students. Yinqiu He (from stats) and I proposed a work entitled
+  "real-time regression analysis of streaming health datasets with heterogeneity and correlation". """
+  
+  
+[[item]]
   organization = "Department of Biostatistics, School of Public Health"
   organization_url = "https://sph.umich.edu/biostat/index.html"
   title = "2019 Excellence in Research Honorable Mention"
