@@ -28,7 +28,7 @@ interests:
 
 education:
   courses:
-  - course: PhD candidate in Biostatistics
+  - course: PhD in Biostatistics
     institution: University of Michigan - Ann Arbor
     year: 2020
   - course: MS in Biostatistics
@@ -71,4 +71,4 @@ email: "luolsph@umich.edu"
 #- Visitors
 ---
 
-I am a fourth-year PhD candidate in the Department of Biostatistics at the University of Michigan. My research interests lie at developing real-time analytics to address methodological needs in the analysis of mobile health data. My dissertation work focuses on developing real-time regression methods for both cross-sectional and longitudinal- or cluster-correlated data streams, advised by <a href="http://www.umich.edu/~songlab/people.html" target="_blank">Professor Peter X.K. Song</a>. Now I am working on a project to handle data streams with dynamic heterogeneity in state space mixed model. 
+I am a fourth-year PhD in the Department of Biostatistics at the University of Michigan, working with <a href="http://www.umich.edu/~songlab/people.html" target="_blank">Professor Peter X.K. Song</a>. My research interests lie at developing real-time analytics to address methodological needs in the analysis of mobile health data. My dissertation work focuses on developing real-time regression methods for both cross-sectional and cluster-correlated data streams under homogeneity assumption, as well as data streams with dynamically evolved batch-specific effects in state space mixed models. 
