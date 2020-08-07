@@ -15,7 +15,7 @@ role: Assistant Professor
 # Organizations/Affiliations
 organizations:
 - name: Department of Statistics and Actuarial Science, University of Iowa
-  url: "https://stat.uiowa.edu/about/about-department"
+  url: "https://stat.uiowa.edu"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include streaming data analysis, online learning, change-point detection, sequential testing and longitudinal data analysis.
