@@ -43,7 +43,7 @@ url_code: https://github.com/luolsph/RenewQIF_pkg
 url_dataset:
 url_poster: 
 url_project:
-url_slides: https://drive.google.com/file/d/16qfcZqwK8qUD-Kgb_QfMGv8GB3ejxtvi/view?usp=sharing
+url_slides: https://drive.google.com/file/d/1c9qwsu4Og7KN8WnLrFukijzZoh9Mbd6D/view?usp=sharing
 url_source:
 url_video:
 
