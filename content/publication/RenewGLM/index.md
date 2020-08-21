@@ -43,7 +43,7 @@ url_code: https://github.com/luolsph/RenewGLM_pkg
 url_dataset:
 url_poster: https://drive.google.com/file/d/1s9m6lB5HDWhc9jFlHGPnq7-Q3peC5bdh/view?usp=sharing
 url_project:
-url_slides: https://drive.google.com/file/d/16qfcZqwK8qUD-Kgb_QfMGv8GB3ejxtvi/view?usp=sharing
+url_slides: https://drive.google.com/file/d/1c9qwsu4Og7KN8WnLrFukijzZoh9Mbd6D/view?usp=sharing
 url_source:
 url_video:
 
