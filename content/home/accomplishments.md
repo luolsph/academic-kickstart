@@ -37,7 +37,7 @@ date_format = "Jan 2006"
   date_start = "2020-02-14"
   date_end = ""
   description = """This is an event to encourage collaboration between biostatistics
-  and statistics PhD students. Yinqiu He (from stats) and I proposed a work entitled
+  and statistics PhD students. <a href="https://sites.google.com/umich.edu/yinqiuhe" target="_blank">Yinqiu He</a> (from stats) and I proposed a work entitled
   "real-time regression analysis of streaming health datasets with heterogeneity and correlation". """
   
   
