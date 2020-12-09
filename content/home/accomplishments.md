@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Awards & Accomplish&shy;ments"
+title = "Awards"
 subtitle = ""
 
 # Date format
@@ -63,14 +63,14 @@ date_format = "Jan 2006"
   students who have achieved candidacy and are actively working on dissertation research
   and writing"""
 
-[[item]]
-  organization = "aUM Yoga Studio"
-  organization_url = "https://www.aumyogaannarbor.com/"
-  title = "200-Hour Yoga Teacher Training Certificate"
+#[[item]]
+#  organization = "aUM Yoga Studio"
+#  organization_url = "https://www.aumyogaannarbor.com/"
+#  title = "200-Hour Yoga Teacher Training Certificate"
 #  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
 #  certificate_url = "https://www.edx.org"
-  date_start = "2018-12-01"
-  date_end = ""
+#  date_start = "2018-12-01"
+#  date_end = ""
 #  description = "Formulated informed blockchain models, hypotheses, and use cases."
   
 
