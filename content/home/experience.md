@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Experience"
+title = "Research"
 subtitle = ""
 
 # Date format for experience
@@ -19,60 +19,69 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "Doctoral Dissertation Research"
+  title = "PASA"
+  company = "University of Iowa"
+  company_url = ""
+  location = "Iowa City, Iowa"
+  date_start = "2020-06-01"
+  date_end = ""
+  description = """ PASA is a hybrid architecture that integrates online streaming processing 
+  into each distributed and parallelized data process in a MapReduce framework
+  
+  * Emily Hector, Lan Luo and Peter X.-K. Song (2020+) Parallel-and-stream accelerator (PASA) in fast computing for big data (submitted).
+  """
+  
+[[experience]]
+  title = "RenewGLM"
   company = "University of Michigan"
   company_url = ""
   location = "Ann Arbor, Michigan"
   date_start = "2016-09-01"
-  date_end = "2020-05-29"
-  description = """Renewable Estimation and Incremental Inference with Streaming Health Datasets
- 
-  Projects include:
+  date_end = "2019-05-01"
+  description = """Real-time regression analysis in generalized linear models with cross-sectional datasets
   
-  * Real-time regression analysis in generalized linear models
-  * Real-time regression analysis with cluster-correlated streaming data
-  * Multivariate online regression analysis with Heterogeneous streaming data
+  * Lan Luo, Peter X.-K. Song (2020). Renewable Estimation and Incremental Inference in Generalized Linear Models with Streaming Datasets. Journal of the Royal Statistical Society: Series B, 82, Part 1, 69-97.
+  * Observations are independent
+  * Homogeneity assumption: underlying parameters are fixed
+  * R package: RenewGLM
   """
 
 
 [[experience]]
-  title = "Data Scientist Intern"
-  company = "Google"
-  company_url = ""
-  location = "Mountain View, California"
-  date_start = "2019-05-28"
-  date_end = "2019-08-30"
-  description = """Continuous monitoring of A/B testing with valid confidence intervals
-  
-  * Type I error control with mixture Sequential Probability Ratio Test (mSPRT) method
-  * Power analysis
-  * Multiple sequential testing
-  """
-
-[[experience]]
-  title = "Graduate Student Research Assistant"
+  title = "RenewQIF"
   company = "University of Michigan"
   company_url = ""
   location = "Ann Arbor, Michigan"
   date_start = "2017-09-01"
-  date_end = "2019-04-30"
-  description = """ Black women's wellness project, evaluating factors that associated with weight changes
-  in intervention and control groups
+  date_end = "2020-05-30"
+  description = """Real-time regression analysis in quadratic inference functions with correlated streaming data
   
-  Responsibilities include:
-  
-  * Randomization
-  * Data Cleaning
-  * Data Analysis
+  * Lan Luo, Peter X.-K. Song (2020+). Real-time Regression Analysis of Streaming Clustered Data With Possible Abnormal Data Batches. Journal of the American Statistical Association (Theory and Methods) (invited revision).
+  * Within-data batch correlation
+  * Detection of abnormal data batches
+  * R package: RenewQIF
   """
 
 [[experience]]
-  title = "Graduate Student Research Assistant"
+  title = "MORA"
+  company = "University of Michigan"
+  company_url = ""
+  location = "Ann Arbor, Michigan"
+  date_start = "2019-09-01"
+  date_end = ""
+  description = """ Real-time regression analysis in state-space mixed effects models with heterogeneous streaming data
+  
+  * Batch-specific effects are modeled as dynamically evolved hidden states
+  * Lan Luo, Peter X.-K. Song (2020+). Multivariate online regression analysis with heterogeneous streaming data (submitted).
+  """
+
+[[experience]]
+  title = "YONO"
   company = "University of Michigan"
   company_url = ""
   location = "Ann Arbor, Michigan"
   date_start = "2017-02-01"
-  date_end = "2019-04-30"
+  date_end = "2019-04-01"
   description = """
   Established procedures for pre-processing and modeling of high frequency
   basal body temperature measurements via Hidden Markov Model (HMM), as well as
