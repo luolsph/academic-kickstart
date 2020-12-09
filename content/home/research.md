@@ -18,7 +18,7 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-[[experience]]
+[[research]]
   title = "PASA"
   company = "University of Iowa"
   company_url = ""
@@ -31,7 +31,7 @@ date_format = "Jan 2006"
   * Emily Hector, Lan Luo and Peter X.-K. Song (2020+) Parallel-and-stream accelerator (PASA) in fast computing for big data (submitted).
   """
   
-[[experience]]
+[[research]]
   title = "RenewGLM"
   company = "University of Michigan"
   company_url = ""
@@ -47,7 +47,7 @@ date_format = "Jan 2006"
   """
 
 
-[[experience]]
+[[research]]
   title = "RenewQIF"
   company = "University of Michigan"
   company_url = ""
@@ -62,7 +62,7 @@ date_format = "Jan 2006"
   * R package: RenewQIF
   """
 
-[[experience]]
+[[research]]
   title = "MORA"
   company = "University of Michigan"
   company_url = ""
@@ -75,7 +75,7 @@ date_format = "Jan 2006"
   * Lan Luo, Peter X.-K. Song (2020+). Multivariate online regression analysis with heterogeneous streaming data (submitted).
   """
 
-[[experience]]
+[[research]]
   title = "YONO"
   company = "University of Michigan"
   company_url = ""
