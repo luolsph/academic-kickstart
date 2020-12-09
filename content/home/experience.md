@@ -42,7 +42,7 @@ date_format = "Jan 2006"
   
   * Lan Luo, Peter X.-K. Song (2020). Renewable Estimation and Incremental Inference in Generalized Linear Models with Streaming Datasets. Journal of the Royal Statistical Society: Series B, 82, Part 1, 69-97.
   * Observations are independent
-  * Homogeneity assumption: underlying parameters are fixed
+  * Homogeneity assumption on model parameters
   * R package: RenewGLM
   """
 
@@ -71,7 +71,7 @@ date_format = "Jan 2006"
   date_end = ""
   description = """ Real-time regression analysis in state-space mixed effects models with heterogeneous streaming data
   
-  * Batch-specific effects are modeled as dynamically evolved hidden states
+  * Batch-specific effects are modeled as dynamically evolved latent states
   * Lan Luo, Peter X.-K. Song (2020+). Multivariate online regression analysis with heterogeneous streaming data (submitted).
   """
 
