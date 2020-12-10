@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Real-time regression analysis in generalized linear models with cross-sectional datasets"
+title: "Real-time regression analysis in generalized linear models with cross-sectional datasets (RenewGLM)"
 authors: [Lan Luo, Peter X.-K. Song]
 date: 2016-09-01T14:27:48-07:00
 
