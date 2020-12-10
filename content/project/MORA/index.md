@@ -46,7 +46,7 @@ url_video:
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: "MORA overview"
-  focal_point: "Center"
+  focal_point: "Smart"
 #  preview_only: false
 
 # Associated Projects (optional).
