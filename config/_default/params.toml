@@ -50,9 +50,9 @@ time_format = "3:04 PM"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "luolsph@umich.edu"
+email = "lan-luo@uiowa.edu"
 phone = ""
-address = "M4135, SPH II, 1415 Washington Heights, Ann Arbor, MI 48109, USA"
+address = "205 Schaeffer Hall, Iowa City, IA 52242, USA"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 office_hours = ""
@@ -85,7 +85,7 @@ office_hours = ""
 #   1: Google Maps
 #   2: OpenStreetMap (Mapnik)
 #   3: OpenStreetMap (Mapbox)
-map = 1
+map = 0
 map_api_key = ""
 latitude = "42.2809"
 longitude = "-83.7304"
