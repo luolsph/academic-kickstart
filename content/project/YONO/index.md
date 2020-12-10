@@ -10,7 +10,7 @@ summary: "This is an applied project in which we establish procedures for pre-pr
   basal body temperature measurements via hidden Markov model (HMM), as well as
   prediction of ovulation by incorporating biorhythm information."
 
-tags: [Basal body temperature, hidden markov model, prediction, ovulation, tracking data, wearable]
+tags: [Basal body temperature, hidden Markov model, prediction, ovulation, tracking data, wearable]
 categories: []
 featured: false
 
@@ -36,7 +36,7 @@ url_video:
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: "YONO overview"
-  focal_point: "Smart"
+  focal_point: "Right"
 #  preview_only: false
 
 # Associated Projects (optional).
