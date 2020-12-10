@@ -7,7 +7,8 @@ date: 2016-09-01T14:27:48-07:00
 
 
 # Summary. An optional shortened abstract.
-summary: "This project presents a new framework of real-time estimation and incremental inference, in which
+summary: "This project presents a new framework of real-time estimation and incremental inference in generalized
+linear models (GLMs) where
 the maximum likelihood estimator is renewed with current data and summary statistics of historical data."
 
 tags: [Incremental statistical analysis, Lambda architecture, online learning, 
