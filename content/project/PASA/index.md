@@ -7,8 +7,8 @@ date: 2020-12-01T14:27:48-07:00
 
 
 # Summary. An optional shortened abstract.
-summary: "PASA is a hybrid paradigm designed for practical computing needs. It integrates
-online streaming processing into each distributed parallelized data process in a MapReduce framework."
+summary: "A hybrid paradigm that integrates
+online streaming processing into each parallelized data process in a MapReduce framework."
 
 tags: [Confidence distribution, divide and conquer, generalized method of moments,
 online learning, prediction]
