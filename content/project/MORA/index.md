@@ -22,7 +22,7 @@ and inter-data batch correlation."
 
 tags: [Dynamic effects, online learning, Kalman filter, streaming data, state-space mixed models]
 categories: []
-#featured: false
+featured: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
@@ -44,11 +44,10 @@ url_video:
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-header:
 image:
   caption: "MORA overview"
   focal_point: "Smart"
-  preview_only: false
+#  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
