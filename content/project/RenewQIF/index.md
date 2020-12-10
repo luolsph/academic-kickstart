@@ -6,7 +6,7 @@ authors: [Lan Luo, Peter X.-K. Song]
 date: 2020-12-02T14:27:48-07:00
 
 # Summary. An optional shortened abstract.
-summary: "This project concerns an incremental data analytic based on quadratic inference function (QIF) to analyze streaming datasets with correlated outcomes such as longitudinal and clustered data. We also consider checking the homogeneity assumption of regression coefficients via a goodness-of-fit test as a screening procedure on occurrences of abnormal data batches"
+summary: "This project concerns an incremental data analytic based on quadratic inference function (QIF) to analyze streaming datasets with correlated outcomes such as longitudinal and clustered data. We also add a screening procedure on occurrences of abnormal data batches."
 
 tags: [Incremental statistical analysis, quadratic inference function, 
 generalized estimating equation, Spark computing platform]
