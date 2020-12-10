@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "YONO"
+title: "YONO detection and prediction of ovulation by"
 authors: [Lan Luo, Xichen She, Jiexuan Cao, Yunlong Zhang, Yijiang Li, Peter X.K. Song]
 date: 2020-12-02T14:27:48-07:00
 
