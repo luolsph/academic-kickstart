@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Iowa City, Iowa"
   date_start = "2020-08-24"
-  date_end = "2020-12-11"
+  date_end = ""
   description = """
   This is a course in mathematical statistics intended for upper-level undergraduate students
   in the mathematical sciences as well as for graduate students in all disciplines. The goal is
