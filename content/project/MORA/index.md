@@ -2,14 +2,14 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "MORA"
-#authors: [Lan Luo, Peter X.-K. Song]
-#date: 2020-12-02T14:27:48-07:00
+authors: [Lan Luo, Peter X.-K. Song]
+date: 2020-12-02T14:27:48-07:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint/Working paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-#publication_types: ["3"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
 #publication: "Journal of the Royal Statistical Society: Series B, 82, Part 1, 69-97"
@@ -17,8 +17,8 @@ title: "MORA"
 
 
 # Summary. An optional shortened abstract.
-summary: "MORA is built in the framework of linear state-space mixed models in which the observed
-data stream is driven by a latent state process that follows a Markov process."
+summary: "MORA is a real-time regression analysis method that incorporates both dynamics 
+and inter-data batch correlation."
 
 tags: [Dynamic effects, online learning, Kalman filter, streaming data, state-space mixed models]
 categories: []
@@ -46,7 +46,7 @@ url_video:
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: "MORA overview"
-  focal_point: "Smart"
+  focal_point: "Center"
 #  preview_only: false
 
 # Associated Projects (optional).
