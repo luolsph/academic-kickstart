@@ -40,7 +40,7 @@ featured: false
 url_pdf: https://bmcbioinformatics.biomedcentral.com/track/pdf/10.1186/s12859-017-1872-9
 url_code: https://github.com/luolsph/glmADMM_pkg
 url_dataset:
-url_poster: https://drive.google.com/file/d/1otlpoqnt7AsCFPTD8ycp2ap7hrlUBRQR/view?usp=sharing
+#url_poster: https://drive.google.com/file/d/1otlpoqnt7AsCFPTD8ycp2ap7hrlUBRQR/view?usp=sharing
 url_project:
 url_slides:
 url_source:
