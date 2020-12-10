@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 
-[[teach]]
+[[experience]]
   title = "Mathematical Statistics I (STAT4100)"
   company = "University of Iowa"
   company_url = ""
