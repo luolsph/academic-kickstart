@@ -10,8 +10,8 @@ summary: "Detection and prediction of ovulation by incorporating biorhythm infor
   basal body temperature measurements via hidden Markov model (HMM)."
 
 tags: [Basal body temperature, hidden Markov model, prediction, ovulation, tracking data, wearable]
-categories: []
-featured: false
+#categories: []
+#featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
@@ -35,7 +35,7 @@ url_video:
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: "YONO overview"
-  focal_point: "Right"
+  focal_point: "Smafeatrt"
 #  preview_only: false
 
 # Associated Projects (optional).
