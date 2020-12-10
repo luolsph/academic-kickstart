@@ -24,7 +24,6 @@ tags: [Dynamic effects, online learning, Kalman filter, streaming data, state-sp
 categories: []
 featured: true
 
-image = "featured.png"
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
@@ -49,7 +48,7 @@ url_video:
 image:
   caption: "MORA overview"
   focal_point: ""
-  preview_only: true
+  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
