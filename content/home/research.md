@@ -17,8 +17,8 @@ height = ""
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "PASA"
-  content = "PASA is a hybrid architecture that integrates online streaming processing 
-  into each distributed and parallelized data process in a MapReduce framework"
+  content = """PASA is a hybrid architecture that integrates online streaming processing 
+  into each distributed and parallelized data process in a MapReduce framework"""
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
