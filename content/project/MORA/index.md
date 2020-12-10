@@ -36,7 +36,7 @@ url_video:
 image:
   caption: "MORA overview"
   focal_point: "Smart"
-#  preview_only: false
+  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
