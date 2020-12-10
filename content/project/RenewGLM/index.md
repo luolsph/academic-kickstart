@@ -26,16 +26,16 @@ featured: false
 url_pdf: https://rss.onlinelibrary.wiley.com/doi/full/10.1111/rssb.12352
 url_code: https://github.com/luolsph/RenewGLM_pkg
 url_dataset:
-url_poster: https://drive.google.com/file/d/1s9m6lB5HDWhc9jFlHGPnq7-Q3peC5bdh/view?usp=sharing
+#url_poster: https://drive.google.com/file/d/1s9m6lB5HDWhc9jFlHGPnq7-Q3peC5bdh/view?usp=sharing
 url_project:
-url_slides: https://drive.google.com/file/d/1c9qwsu4Og7KN8WnLrFukijzZoh9Mbd6D/view?usp=sharing
+#url_slides: https://drive.google.com/file/d/1c9qwsu4Og7KN8WnLrFukijzZoh9Mbd6D/view?usp=sharing
 url_source:
 url_video:
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
+image:featured.png
   caption: ""
   focal_point: ""
   preview_only: false
