@@ -1,13 +1,14 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "RenewGLM"
+title: "Real-time regression analysis in generalized linear models with cross-sectional datasets"
 authors: [Lan Luo, Peter X.-K. Song]
 date: 2016-09-01T14:27:48-07:00
 
 
 # Summary. An optional shortened abstract.
-summary: "Real-time regression analysis in generalized linear models with cross-sectional datasets"
+summary: "This project presents a new framework of real-time estimation and incremental inference, in which
+the maximum likelihood estimator is renewed with current data and summary statistics of historical data."
 
 tags: [Incremental statistical analysis, Lambda architecture, online learning, 
 stochastic gradient descent algorithm, Spark computing platform]
