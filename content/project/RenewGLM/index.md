@@ -7,9 +7,8 @@ date: 2016-09-01T14:27:48-07:00
 
 
 # Summary. An optional shortened abstract.
-summary: "This project presents a new framework of real-time estimation and incremental inference in generalized
-linear models (GLMs) where
-the maximum likelihood estimator is renewed with current data and summary statistics of historical data."
+summary: "A new framework of real-time estimation and incremental inference in generalized
+linear models (GLMs) with cross-sectional data streams."
 
 tags: [Incremental statistical analysis, Lambda architecture, online learning, 
 stochastic gradient descent algorithm, Spark computing platform]
@@ -55,3 +54,4 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
+This paper presents an incremental updating algorithm to analyze streaming datasets using generalized linear models. The proposed method is formulated within a new framework of renewable estimation and incremental inference, in which the maximum likelihood estimator is renewed with current data and summary statistics of historical data. Our framework can be implemented within a popular distributed computing environment, known as Apache Spark, to scale up computation. Consisting of two data-processing layers, the Rho architecture enables to accommodate inference related statistics and to facilitate sequential updating of the statistics used in both estimation and inference. We establish estimation consistency and asymptotic normality of the proposed renewable estimator, in which the Wald test is utilized for an incremental inference. Our methods are examined and illustrated by various numerical examples from both simulation experiments and a real-world data analysis.
