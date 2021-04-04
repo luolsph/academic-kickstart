@@ -7,12 +7,12 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Publications (submitted)"
-subtitle = ""
+title = "Publications"
+subtitle = "Submitted & Under revision"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
-  page_type = "working"
+  page_type = "Working"
   
   # Choose how much pages you would like to display (0 = all pages)
   count = 5
