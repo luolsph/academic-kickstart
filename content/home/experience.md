@@ -35,5 +35,24 @@ date_format = "Jan 2006"
   * Multivariate distributions (joint/marginal distributions, transformation, independence)
   * Some special distributions (Binomial, Negative Binomial, Geometric, Poisson, Normal)
   """
+  
+  [[experience]]
+  title = "Mathematical Statistics II (STAT4101)"
+  company = "University of Iowa"
+  company_url = ""
+  location = "Iowa City, Iowa"
+  date_start = "2021-01-25"
+  date_end = "2021-05-07"
+  description = """
+  This course is a continuation of STAT4100. It is intended for upper-level undergraduate students in the mathematical sciences 
+  as well as for graduate students in all disciplines. The goal is to give students a solid foundation in the theory and methods of statistical inference. 
+  Main topics include:
+  
+  * point estimation and confidence intervals
+  * convergence in distribution and convergence in probability 
+  * maximum likelihood methods
+  * sufficient statistics
+  * hypothesis testing.
+  """
 
 +++
