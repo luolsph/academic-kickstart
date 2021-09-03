@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Statistical Inference for Streamed Longitudinal Data (submitted)"
-authors: [Lan Luo*, Emily C. Hector* (* Co-first author)]
+authors: [Lan Luo, Emily C. Hector]
 date: 2021-4-3T14:27:48-07:00
 doi: ""
 
