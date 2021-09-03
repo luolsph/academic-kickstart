@@ -18,6 +18,22 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+[[experience]]
+  title = "Introduction to Data Science (STAT1015, new course)"
+  company = "University of Iowa"
+  company_url = ""
+  location = "Iowa City, Iowa"
+  date_start = "2021-08-23"
+  date_end = "2021-12-10"
+  description = """
+  This course is intended for lower-level undergraduate students. The goal is to prepare students with the necessary knowledge and useful skills to tackle real-world data analysis challenges. This course will cover basic statistical concepts and computing skills in the field of data science. A list of the topics to be covered include:
+  
+  * R basics (importing data, data types, sorting and summarizing)
+  * data visualization with ggplot2, robust summarises
+  * intro to probability, statistical inference, regression models
+  * intro to machine learning (classification, clustering, and prediction).
+  """
+  
 
 [[experience]]
   title = "Mathematical Statistics I (STAT4100)"
