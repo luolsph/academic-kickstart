@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Multivariate Online Regression Analysis with Heterogeneous Streaming Data (Accepted)"
+title: "Multivariate Online Regression Analysis with Heterogeneous Streaming Data"
 authors: [Lan Luo, Peter X.-K. Song]
 date: 2021-4-3T14:27:48-07:00
 doi: ""
@@ -16,7 +16,7 @@ publishDate: 2021-04-3T14:27:48-07:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "The Canadian Journal of Statistics"
+publication: "The Canadian Journal of Statistics (Accepted)"
 publication_short: ""
 
 abstract: "New data collection and storage technologies have given rise to 
