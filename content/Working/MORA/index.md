@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Multivariate Online Regression Analysis with Heterogeneous Streaming Data (under revision)"
-authors: [Lan Luo, Peter X.-K. Song]
+title: "Statistical inference for streamed longitudinal data (submitted)"
+authors: [Lan Luo, Emily C. Hector]
 date: 2021-4-3T14:27:48-07:00
 doi: ""
 
@@ -16,20 +16,10 @@ publishDate: 2021-04-3T14:27:48-07:00
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "The Canadian Journal of Statistics"
+#publication: "The Canadian Journal of Statistics"
 publication_short: ""
 
-abstract: "New data collection and storage technologies have given rise to 
-a new field of streaming data analytics, including real-time statistical methodology for online data analyses. 
-Most existing online learning methods are based on homogeneity assumption such that the sequence of samples are independent and identical. 
-However, inter-data batch correlation and dynamically evolved batch-specific effects are among the key defining features in real-world 
-streaming data such as electronic health records and mobile health data. This paper is built in the framework of state space mixed models 
-in which the observed data stream is driven by a latent state process that follows a Markov process. 
-In this setting, online maximum likelihood estimation is challenged by high-dimensional integrals and complex covariance structures. 
-In this paper, we develop a Kalman filter based real-time regression analysis method that enables to update both point estimates 
-and standard errors of the fixed population average effects while adjusting for dynamic hidden effects. Both theoretical justification 
-and numerical experiments have demonstrated that our proposed online method has similar statistical properties to its offline counterpart 
-but enjoys great computation efficiency. We also apply this method to analyze an electronic health record data example."
+abstract: "Modern longitudinal data, for example from wearable devices, measures biological signals on a fixed set of participants at a diverging number of time points. Traditional statistical methods are not equipped to handle the computational burden of repeatedly analyzing the cumulatively growing dataset each time new data is collected. We propose a new estimation and inference framework for the streaming updating of point estimates and their standard errors across serially collected dependent datasets. The key technique is a decomposition of the extended score function of the quadratic inference function constructed over the cumulative longitudinal data into a sum of summary statistics over data batches. We show how this sum can be recursively updated without the need to access the whole dataset, resulting in a computationally efficient streaming procedure with minimal loss of statistical efficiency. We prove consistency and asymptotic normality of our streaming estimator as the number of data batches diverges, even as the number of independent participants remains fixed. Extensive simulations highlight the computational and statistical advantage of our approach over traditional statistical methods that analyze the cumulative longitudinal dataset. Finally, our streaming framework is used to investigate the relationship between physical activity and several diseases through the analysis of accelerometry data from the National Health and Nutrition Examination Survey."
 # Summary. An optional shortened abstract.
 summary: ""
 
