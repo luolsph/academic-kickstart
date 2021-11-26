@@ -23,8 +23,7 @@ abstract: "Modern longitudinal data, for example from wearable devices, measures
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: [Incremental statistical analysis, Kalman filter, 
-Dynamic effects, State space models]
+tags: [Generalized method of moments, Online learning, Quadratic inference functions, Scalable computing, Serial dependence]
 categories: []
 featured: false
 
