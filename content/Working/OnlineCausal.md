@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: 
+url_pdf: https://arxiv.org/abs/2111.13775
 url_code: https://github.com/luolsph/OnlineCausal
 url_dataset:
 url_poster: 
