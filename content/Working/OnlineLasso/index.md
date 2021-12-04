@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: 
+url_pdf: http://128.84.4.34/pdf/2106.05925
 #url_code: https://github.com/luolsph/RenewQIF_pkg
 url_dataset:
 url_poster: 
