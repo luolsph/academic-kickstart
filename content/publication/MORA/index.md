@@ -4,7 +4,7 @@
 title: "Multivariate Online Regression Analysis with Heterogeneous Streaming Data"
 authors: [Lan Luo, Peter X.-K. Song]
 date: 2021-9-3T14:27:48-07:00
-doi: ""
+doi: http://doi.org/10.1002/cjs.11667
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2021-06-22T14:27:48-07:00
