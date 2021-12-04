@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Real-time Regression Analysis of Streaming Clustered Data With Possible Abnormal Data Batches (under revision)"
-authors: [Lan Luo, Peter X.-K. Song]
+authors: [Lan Luo, Ling Zhou, and Peter X.-K. Song]
 date: 2020-10-22T14:27:48-07:00
 doi: ""
 
@@ -19,7 +19,7 @@ publication_types: ["3"]
 publication: "Journal of the American Statistical Association (Theory and Methods)"
 publication_short: ""
 
-abstract: "This paper develops an incremental data analytic based on quadratic inference function (QIF) to analyze streaming datasets with correlated outcomes such as longitudinal and clustered data. We propose a renewable QIF (RenewQIF) method in a paradigm of renewable estimation and incremental inference, in which parameter estimates are recursively renewed with current data and summary statistics of historical data, but with no use of any historical subject-level raw data. We show theoretically and numerically that our renewable estimation method is asymptotically equivalent to the oracle generalized estimating equations (GEE) approach that directly processes the entire cumulative subject-level data. We also consider checking the homogeneity assumption of regression coefficients via a sequential goodness-of-fit test as a screening procedure on occurrences of abnormal data batches. We implement the proposed methodology on an expanded platform of existing Spark’s Lambda architecture to accommodate the screening tool box. Through extensive simulation studies we demonstrate that RenewQIF enjoys both statistical and computational efficiencies. In addition, we illustrate the proposed method by an analysis of streaming car crash datasets from the National Automotive Sampling System-Crashworthiness Data System (NASS CDS)."
+abstract: ""
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -37,7 +37,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: 
+url_pdf: https://arxiv.org/pdf/2106.15794.pdf
 url_code: https://github.com/luolsph/RenewQIF_pkg
 url_dataset:
 url_poster: 
