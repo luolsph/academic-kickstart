@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Publications"
+title = "Preprints"
 subtitle = "Submitted & Under revision"
 
 [content]
@@ -36,7 +36,7 @@ subtitle = "Submitted & Under revision"
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 4
+  view = 2
   
 [design.background]
   # Apply a background color, gradient, or image.
