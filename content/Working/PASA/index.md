@@ -19,7 +19,7 @@ publication_types: ["3"]
 # publication: "The Canadian Journal of Statistics"
 publication_short: ""
 
-abstract: "Two dominant distributed computing strategies have emerged to overcome the computational bottleneck of supervised learning with big data: parallel data processing in the MapReduce paradigm and serial data processing in the online streaming paradigm. Despite the two strategies' common divide-and-combine approach, they differ in how they aggregate information, leading to different trade-offs between statistical and computational performance. In this paper, we propose a new hybrid paradigm, termed a {\em Parallel-and-Stream Accelerator (PASA)}, that uses the strengths of both strategies for computationally fast and statistically efficient supervised learning. PASA's architecture nests online streaming processing into each distributed and parallelized data process in a MapReduce framework. PASA leverages the advantages and mitigates the disadvantages of both the MapReduce and online streaming approaches to deliver a more flexible paradigm satisfying practical computing needs. We study the analytic properties and computational complexity of PASA, and detail its implementation for two key statistical learning tasks. We illustrate its performance through simulations and a large-scale data example building a prediction model for online purchases from advertising data."
+abstract: ""
 # Summary. An optional shortened abstract.
 summary: ""
 
@@ -35,7 +35,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: 
+url_pdf: https://arxiv.org/pdf/2111.00032.pdf
 #url_code: https://github.com/luolsph/RenewQIF_pkg
 url_dataset:
 url_poster: 
