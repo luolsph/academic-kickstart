@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Online Statistical Inference in High-dimensional Regression with Streaming Data (submitted)"
+title: "Online Statistical Inference in High-dimensional Regression with Streaming Data (under revision)"
 authors: [Ruijian Han*, Lan Luo*, Yuanyuan Lin and Jian Huang (* Co-first author)]
 date: 2021-4-3T14:27:48-07:00
 doi: ""
