@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Online Causal Inference with Application to Near Real-Time Post-Market Vaccine Safety Surveillance (submitted)"
-authors: [Xu Shi, Lan Luo]
+authors: [Xu Shi*, Lan Luo* (* Co-first author)]
 date: 2021-11-25T14:27:48-07:00
 doi: ""
 
