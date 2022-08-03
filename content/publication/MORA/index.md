@@ -16,7 +16,7 @@ publishDate: 2021-06-22T14:27:48-07:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "The Canadian Journal of Statistics (Accepted)"
+publication: "The Canadian Journal of Statistics"
 publication_short: ""
 
 abstract: "New data collection and storage technologies have given rise to 
