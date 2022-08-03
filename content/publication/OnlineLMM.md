@@ -3,11 +3,11 @@
 
 title: "Online Two-Way Estimation and Inference via Linear Mixed-Effects Models"
 authors: [Lan Luo, Lexin Li]
-date: 2022-08-03T14:27:48-07:00
+date: 2022-08-02T14:27:48-07:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2021-11-25T14:27:48-07:00
+publishDate: 2022-08-02T14:27:48-07:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,7 +16,7 @@ publishDate: 2021-11-25T14:27:48-07:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-# publication: "Statistics in Medicine (Accepted)"
+publication: "Statistics in Medicine (Accepted)"
 publication_short: ""
 
 abstract: ""
