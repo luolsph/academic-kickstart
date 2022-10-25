@@ -31,7 +31,7 @@ featured: false
 #   Uncomment and edit lines below to show custom links.
 # links:
 # - name: Follow
-   url: https://twitter.com
+#   url: https://twitter.com
 #   icon_pack: fab
 #   icon: twitter
 
