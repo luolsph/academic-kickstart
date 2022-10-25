@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Statistical Inference for Streamed Longitudinal Data (under revision)"
+title: "Statistical Inference for Streamed Longitudinal Data (minor revision at Biometrika)"
 authors: [Lan Luo, Jingshen Wang, and Emily C. Hector]
 date: 2021-4-3T14:27:48-07:00
 doi: ""
@@ -31,11 +31,11 @@ featured: false
 #   Uncomment and edit lines below to show custom links.
 # links:
 # - name: Follow
-#   url: https://twitter.com
+   url: https://twitter.com
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: 
+url_pdf: https://arxiv.org/pdf/2208.02890.pdf
 #url_code: https://github.com/luolsph/RenewQIF_pkg
 url_dataset:
 url_poster: 
