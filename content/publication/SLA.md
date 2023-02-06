@@ -16,7 +16,7 @@ publishDate: 2023-02-05T14:27:48-07:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Biometrika (accepted with invitation for Discussion)"
+publication: "Biometrika (Accepted with invitation for Discussion)"
 publication_short: ""
 
 abstract: ""
