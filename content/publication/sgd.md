@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Online inference with debiased stochastic gradient descent (under revision)"
+title: "Online inference with debiased stochastic gradient descent"
 authors: [Ruijian Han*, Lan Luo*, Yuanyuan Lin and Jian Huang (* Co-first author)]
 date: 2023-6-12T14:27:48-07:00
 doi: ""
