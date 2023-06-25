@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Streamed longitudinal inference"
+title: "SLA"
 authors: [Lan Luo, Jingshen Wang and Emily Hector]
 date: 2020-12-01T14:27:48-07:00
 
