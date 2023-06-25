@@ -6,8 +6,8 @@ authors: [Lan Luo, Xichen She, Jiexuan Cao, Yunlong Zhang, Yijiang Li, Peter X.K
 date: 2020-12-02T14:27:48-07:00
 
 # Summary. An optional shortened abstract.
-summary: "Detection and prediction of ovulation by incorporating biorhythm information in processing high frequency
-  basal body temperature measurements via hidden Markov model (HMM)."
+summary: "Detection and prediction of ovulation by incorporating biorhythm information in processing high-frequency
+  basal body temperature measurements via hidden Markov models."
 
 tags: [Basal body temperature, hidden Markov model, prediction, ovulation, tracking data, wearable]
 #categories: []
@@ -21,7 +21,7 @@ tags: [Basal body temperature, hidden Markov model, prediction, ovulation, track
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: 
+url_pdf: https://ieeexplore.ieee.org/abstract/document/8715448
 #url_code: https://github.com/luolsph/RenewQIF_pkg
 url_dataset:
 url_poster: 
