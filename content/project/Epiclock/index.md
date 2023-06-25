@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Epigenetic Clock"
+title: "Epigenetic Clocks"
 authors: [Lan Luo]
 date: 2023-06-01T14:27:48-07:00
 
@@ -34,7 +34,7 @@ url_video:
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image: 
-  caption: "SLA overview"
+  caption: "Epigenetic clocks overview"
   focal_point: "Smart"
 #  preview_only: false
 
