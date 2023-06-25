@@ -7,8 +7,7 @@ date: 2023-04-01T14:27:48-07:00
 
 
 # Summary. An optional shortened abstract.
-summary: "An online estimation and inference framework that takes into account dynamic and dependence
-in serially collected datasets."
+summary: "An online estimation and inference framework for streamed longitudinal data analysis (SLA)."
 
 tags: [Generalized method of moments, Online learning, Quadratic inference functions, Scalable computing, 
 Serial dependence]
