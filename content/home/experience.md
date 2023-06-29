@@ -27,11 +27,11 @@ date_format = "Jan 2006"
   date_end = "2023-05-10"
   description = """
   This course focuses on applications and hands-on data analysis with computer software (primarily R). A list of the topics to be covered include:
+  
   * examining and transforming data
   * simple, multiple, and dummy variable regressions
   * single- and multi-factor ANOVAs
   * diagnostics of influential data
-  * model adequacy checking and model selection
   * generalized linear models including logistic regression
   * interpretation and presentation of analysis results
   """
