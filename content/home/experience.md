@@ -30,7 +30,8 @@ date_format = "Jan 2006"
   
   * examining and transforming data
   * simple, multiple, and dummy variable regressions
-  * single- and multi-factor ANOVAs
+  * one-way ANOVA
+  * multicollinearity
   * diagnostics of influential data
   * generalized linear models including logistic regression
   * interpretation and presentation of analysis results
