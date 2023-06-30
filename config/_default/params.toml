@@ -50,9 +50,9 @@ time_format = "3:04 PM"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "lan-luo@uiowa.edu"
+email = "ll1118@sph.rutgers.edu"
 phone = ""
-address = "205 Schaeffer Hall, Iowa City, IA 52242, USA"
+address = "683 Hoes Lane West, Piscataway, NJ 08854, USA"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 office_hours = ""
