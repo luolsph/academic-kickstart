@@ -14,7 +14,8 @@ role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Department of Biostatistics, Rutgers University
+- name: Department of Biostatistics and Epidemiology
+- Rutgers University
   url: "https://sph.rutgers.edu/departments/biostatistics-and-epidemiology"
 
 # Short bio (displayed in user profile at end of posts)
