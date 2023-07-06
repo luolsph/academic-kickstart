@@ -19,12 +19,11 @@ publication_types: ["2"]
 publication: "Biometrika (Accepted)"
 publication_short: ""
 
-abstract: ""
+abstract: "We propose a debiased stochastic gradient descent algorithm for online statistical inference with high-dimensional data. Our approach combines the debiasing technique developed in high-dimensional statistics with the stochastic gradient descent algorithm. It can be used for efficiently constructing confidence intervals in an online fashion. Our proposed algorithm has several appealing aspects: first, as a one-pass algorithm, it reduces the time complexity; in addition, each update step requires only the current data together with the previous estimate, which reduces the space complexity. We establish the asymptotic normality of the proposed estimator under mild conditions on the sparsity level of the parameter and the data distribution. We conduct numerical experiments to demonstrate the proposed debiased stochastic gradient descent algorithm reaches nominal coverage probability. Furthermore, we illustrate our method with a high-dimensional text dataset."
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: [Adaptive tuning, Confidence interval, 
-Debiased lasso, Online algorithm, Streaming data]
+tags: [Confidence interval, High-dimensional statistics, Online learning, Stochastic gradient descent]
 categories: []
 featured: false
 
@@ -37,7 +36,7 @@ featured: false
 #   icon: twitter
 
 #url_pdf: http://128.84.4.34/pdf/2106.05925
-#url_code: https://github.com/luolsph/RenewQIF_pkg
+url_code: https://github.com/luolsph/OnlineDSGD
 url_dataset:
 url_poster: 
 url_project:
