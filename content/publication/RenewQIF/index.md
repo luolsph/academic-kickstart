@@ -19,7 +19,7 @@ publication_types: ["2"]
 publication: "Journal of the American Statistical Association (Theory and Methods)"
 publication_short: ""
 
-abstract: ""
+abstract: "This paper develops an incremental learning algorithm based on quadratic inference function (QIF) to analyze streaming datasets with correlated outcomes such as longitudinal data and clustered data. We propose a renewable QIF (RenewQIF) method within a paradigm of renewable estimation and incremental inference, in which parameter estimates are recursively renewed with current data and summary statistics of historical data, but with no use of any historical subject-level raw data. We compare our renewable estimation method with both offline QIF and offline generalized estimating equations (GEE) approach that process the entire cumulative subject-level data all together, and show theoretically and numerically that our renewable procedure enjoys statistical and computational efficiency. We also propose an approach to diagnose the homogeneity assumption of regression coefficients via a sequential goodness-of-fit test as a screening procedure for occurrences of abnormal data batches. We implement the proposed methodology by expanding existing Spark's Lambda architecture for the operation of statistical inference and data quality diagnosis. We illustrate the proposed methodology by extensive simulation studies and an analysis of streaming car crash datasets from the National Automotive Sampling System-Crashworthiness Data System (NASS CDS). The supplementary material is available online."
 
 # Summary. An optional shortened abstract.
 summary: ""
