@@ -19,6 +19,21 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = "Biostatistics Theory I (BIST0613)"
+  company = "University of Iowa"
+  company_url = ""
+  location = "Piscataway, New Jersey"
+  date_start = "2023-09-05"
+  date_end = "2023-12-19"
+  description = """
+  This course is an introduction to probability modeling as a basis for statistical inference. The underlying strategy in prediction and inference involves the determination of a probability modeling. This course serves to lay a foundation in statistical theory for M.S., M.PH, and Ph.D. students. Multivariate calculus is required. 
+  
+  * Probability and distributions (sets, random variables, expectation, important inequalities)
+  * Multivariate distributions (joint/marginal distributions, transformation, independence)
+  * Some special distributions (Binomial, Negative Binomial, Geometric, Poisson, Normal)
+  """
+
+[[experience]]
   title = "Applied Linear Regression (STAT3200)"
   company = "University of Iowa"
   company_url = ""
