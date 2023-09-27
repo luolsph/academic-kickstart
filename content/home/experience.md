@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Biostatistics Theory I (BIST0613)"
-  company = "University of Iowa"
+  company = "Rutgers School of Public Health"
   company_url = ""
   location = "Piscataway, New Jersey"
   date_start = "2023-09-05"
