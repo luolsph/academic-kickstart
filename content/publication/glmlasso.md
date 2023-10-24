@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Statistical inference in high-dimensional generalized linear models with streaming data (under revision)"
+title: "Statistical inference in high-dimensional generalized linear models with streaming data"
 authors: [Lan Luo*, Ruijian Han*, Yuanyuan Lin and Jian Huang (* Co-first author)]
 date: 2023-4-3T14:27:48-07:00
 doi: ""
