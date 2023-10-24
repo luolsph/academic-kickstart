@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "ECLasso: Fitting equality-constrained, l1-penalized models with inexact ADMM to find gene pairs (under revision)"
+title: "ECLasso: Fitting equality-constrained, l1-penalized models with inexact ADMM to find gene pairs"
 authors: [Tran, L., Li, G., Luo, L. and Jiang, H.]
 date: 2023-4-3T14:27:48-07:00
 doi: ""
