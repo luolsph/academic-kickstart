@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "ECLasso: Fitting equality-constrained, l1-penalized models with inexact ADMM to find gene pairs"
+title: "A fast solution to the lasso problem with equality constraints"
 authors: [Tran, L., Li, G., Luo, L. and Jiang, H.]
 date: 2023-10-3T14:27:48-07:00
 doi: ""
