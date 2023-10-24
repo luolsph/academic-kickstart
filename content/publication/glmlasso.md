@@ -16,7 +16,7 @@ publishDate: 2023-04-03T14:27:48-07:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Electronic Journal of Statistics (accepted)"
+publication: "Electronic Journal of Statistics (Accepted)"
 publication_short: ""
 
 abstract: ""
