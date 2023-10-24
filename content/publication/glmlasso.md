@@ -3,7 +3,7 @@
 
 title: "Statistical inference in high-dimensional generalized linear models with streaming data"
 authors: [Lan Luo*, Ruijian Han*, Yuanyuan Lin and Jian Huang (* Co-first author)]
-date: 2023-4-3T14:27:48-07:00
+date: 2023-10-20T14:27:48-07:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
