@@ -16,7 +16,7 @@ publishDate: 2022-08-02T14:27:48-07:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Statistics in Medicine (Accepted)"
+publication: "Statistics in Medicine, 41(25), 5113-5133."
 publication_short: ""
 
 abstract: "In this article, we tackle the estimation and inference problem of analyzing distributed streaming data that is collected continuously over multiple data sites. We propose an online two-way approach via linear mixed-effects models. We explicitly model the site-specific effects as random-effect terms, and tackle both between-site heterogeneity and within-site correlation. We develop an online updating procedure that does not need to re-access the previous data and can efficiently update the parameter estimate, when either new data sites, or new streams of sample observations of the existing data sites, become available. We derive the non-asymptotic error bound for our proposed online estimator, and show that it is asymptotically equivalent to the offline counterpart based on all the raw data. We compare with some key alternative solutions both analytically and numerically, and demonstrate the advantages of our proposal. We further illustrate our method with two data applications."
