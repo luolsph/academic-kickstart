@@ -16,7 +16,7 @@ publishDate: 2023-04-03T14:27:48-07:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Electronic Journal of Statistics (Accepted)"
+publication: "Electronic Journal of Statistics, 17(2), 3443–3471."
 publication_short: ""
 
 abstract: ""
@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-#url_pdf: http://128.84.4.34/pdf/2106.05925
+url_pdf: https://projecteuclid.org/journals/electronic-journal-of-statistics/volume-17/issue-2/Online-inference-in-high-dimensional-generalized-linear-models-with-streaming/10.1214/23-EJS2182.full
 #url_code: https://github.com/luolsph/RenewQIF_pkg
 url_dataset:
 url_poster: 
