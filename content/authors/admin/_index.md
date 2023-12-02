@@ -23,9 +23,10 @@ bio: My research interests include streaming data analysis, online learning, cha
 interests:
 - Online statistical inference
 - Mobile health
-- Adaptive experiments
-- Dynamic mediation analysis
 - Epigenetic clocks
+- Diabetes management
+- Dynamic mediation analysis
+
 
 education:
   courses:
