@@ -16,7 +16,7 @@ publishDate: 2022-07-30T14:27:48-07:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Computational Statistics and Data Analysis (Accepted)"
+publication: "Computational Statistics and Data Analysis, 177, 107587"
 publication_short: ""
 
 abstract: "Two dominant distributed computing strategies have emerged to overcome the computational bottleneck of supervised learning with big data: parallel data processing in the MapReduce paradigm and serial data processing in the online streaming paradigm. Despite the two strategies' common divide-and-combine approach, they differ in how they aggregate information, leading to different trade-offs between statistical and computational performance. The authors propose a new hybrid paradigm, termed a Parallel-and-Stream Accelerator (PASA), that uses the strengths of both strategies for computationally fast and statistically efficient supervised learning. PASA's architecture nests online streaming processing into each distributed and parallelized data process in a MapReduce framework. PASA leverages the advantages and mitigates the disadvantages of both the MapReduce and online streaming approaches to deliver a more flexible paradigm satisfying practical computing needs. The authors study the analytic properties and computational complexity of PASA and detail its implementation for two key statistical learning tasks. PASA's performance is illustrated through simulations and a large-scale data example building a prediction model for online purchases from advertising data."
