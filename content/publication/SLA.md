@@ -16,7 +16,7 @@ publishDate: 2023-02-05T14:27:48-07:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Biometrika (Accepted with invitation for Discussion)"
+publication: "Biometrika, 110(4), 841-858."
 publication_short: ""
 
 abstract: "Modern longitudinal data, for example from wearable devices, measure biological signals on a fixed set of participants at a diverging number of time points. Traditional statistical methods are not equipped to handle the computational burden of repeatedly analyzing the cumulatively growing dataset each time new data is collected. We propose a new estimation and inference framework for dynamic updating of point estimates and their standard errors along sequentially collected datasets with dependence both within and between datasets. The key technique is a decomposition of the extended inference function vector of the quadratic inference function constructed over the cumulative longitudinal data into a sum of summary statistics over data batches. We show how this sum can be recursively updated without the need to access the whole dataset, resulting in a computationally efficient streaming procedure with minimal loss of statistical efficiency. We prove the consistency and asymptotic normality of our streaming estimator as the number of data batches diverges, even as the number of independent participants remains fixed. Simulations highlight the advantages of our approach over traditional statistical methods that assume independence between data batches. Finally, we investigate the relationship between physical activity and several diseases through the analysis of National Health and Nutrition Examination Survey accelerometry data."
@@ -35,7 +35,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://arxiv.org/pdf/2208.02890.pdf
+url_pdf: https://academic.oup.com/biomet/article-abstract/110/4/841/7048657
 url_code: https://github.com/ehector/SLA
 url_dataset:
 url_poster: 
