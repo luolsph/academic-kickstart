@@ -36,7 +36,7 @@ featured: false
 #   icon: twitter
 
 url_pdf: https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.10095
-#url_code: https://github.com/luolsph/RenewQIF_pkg
+url_code: https://github.com/luolsph/OnlineCausal
 url_dataset:
 url_poster: 
 url_project:
