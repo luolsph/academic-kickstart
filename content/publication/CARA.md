@@ -16,7 +16,7 @@ publishDate: 2024-04-03T14:27:48-07:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "The Journal of Econometrics (accepted)"
+publication: "Journal of Econometrics (accepted)"
 publication_short: ""
 
 abstract: "
