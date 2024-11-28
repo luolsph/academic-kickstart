@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Multivariate dynamic mediation analysis under a reinforcement learning framework"
-authors: [Luo, L., Shi, C., Wang, J., Wu, Z. and Li, L.]
+authors: [Luo, L., Shi, C., Wang, J., Wu, Z., and Li, L.]
 date: 2024-11-3T14:27:48-07:00
 doi: ""
 
