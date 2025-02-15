@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Online causal inference with application to near real-time post-market vaccine safety surveillance"
-authors: [Luo, L., Risk, M. and Shi, X.]
+authors: [Luo, L., Risk, M., Shi, X.]
 date: 2024-06-3T14:27:48-07:00
 doi: ""
 
