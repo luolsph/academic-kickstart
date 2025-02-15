@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Parallel-and-Stream Accelerator for Computationally Fast Supervised Learning"
-authors: [Emily C. Hector*, Lan Luo*, and Peter X.-K. Song (* Co-first author)]
+authors: [Emily C. Hector*, Lan Luo*, and Peter X.-K. Song]
 date: 2022-07-30T14:27:48-07:00
 doi: ""
 
