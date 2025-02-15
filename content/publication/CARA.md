@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Efficient quantile covariate adjusted response adaptive experiments"
-authors: [Li, Z., Luo, L., Wang, J. and Feng, L.]
+authors: [Li, Z., Luo, L., Wang, J., Feng, L.]
 date: 2024-07-3T14:27:48-07:00
 doi: ""
 
