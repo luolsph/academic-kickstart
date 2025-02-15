@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Online inference with debiased stochastic gradient descent"
-authors: [Ruijian Han*, Lan Luo*, Yuanyuan Lin, and Jian Huang (* Co-first author)]
+authors: [Ruijian Han*, Lan Luo*, Yuanyuan Lin, and Jian Huang]
 date: 2023-06-12T14:27:48-07:00
 doi: ""
 
