@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "A fast solution to the lasso problem with equality constraints"
-authors: [Tran, L., Li, G., Luo, L. and Jiang, H.]
+authors: [Tran, L., Li, G., Luo, L., Jiang, H.]
 date: 2023-10-3T14:27:48-07:00
 doi: ""
 
