@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Statistical Inference for Streamed Longitudinal Data"
-authors: [Lan Luo, Jingshen Wang, and Emily C. Hector]
+authors: [Lan Luo, Jingshen Wang, Emily C. Hector]
 date: 2023-02-05T14:27:48-07:00
 doi: ""
 
