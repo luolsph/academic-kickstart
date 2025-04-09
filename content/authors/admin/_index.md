@@ -73,6 +73,6 @@ email: "l.luo@rutgers.edu"
 #- Visitors
 ---
 
-I am a tenure-track Assistant Professor in the Department of Biostatistics and Epidemiology at Rutgers University. My research focuses on developing real-time analytics to meet the methodological requirements associated with streaming data analysis. These include large-scale databases that are periodically updated and mobile health data. In addition to these areas, my current research pursuits include transfer learning in epigenetic clocks, diabetes management, longitudinal mediation analysis, and adaptive experimental design. I serve as the associate editor for Biometrics.
+I am a tenure-track Assistant Professor in the Department of Biostatistics and Epidemiology at Rutgers University. My research focuses on developing real-time analytics for streaming data analysis. These include large-scale databases that are periodically updated and mobile health data. In addition to these areas, my current research pursuits include transfer learning in epigenetic clocks, diabetes management, and longitudinal mediation analysis. I serve as the associate editor for Biometrics.
 
 I am looking for highly motivated graduate students with strong statistical and computational skills to join my group. If you are interested, please feel free to contact me with your CV.
