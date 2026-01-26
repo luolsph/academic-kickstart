@@ -19,22 +19,23 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "Principal Investigator, NIH (R01AG092615)"
+#  organization_url = "https://asaslds.github.io/SLDS2020/"
+  title = "R01: Addressing Population and Platform Heterogeneity in Epigenetic Clocks via Transfer Learning and
+Conformal Prediction Methods"
+#  url = "https://drive.google.com/file/d/1gnyLHLm21IMX8qEVF-JeAGLE1zBVIFeu/view?usp=sharing"
+#  certificate_url = ""
+  date_start = "2026-02-01"
+  date_end = ""
+  description = """"""
+
+[[item]]
   organization = "Principal Investigator, NIH (R21AG083364)"
 #  organization_url = "https://asaslds.github.io/SLDS2020/"
   title = "R21: Transfer Learning and Uncertainty Quantification in Epigenetic Clocks"
 #  url = "https://drive.google.com/file/d/1gnyLHLm21IMX8qEVF-JeAGLE1zBVIFeu/view?usp=sharing"
 #  certificate_url = ""
   date_start = "2023-09-30"
-  date_end = ""
-  description = """"""
-
-  [[item]]
-  organization = "Co-Investigator, NIH (R01HD111550), PI: Stephanie Shiau"
-#  organization_url = "https://asaslds.github.io/SLDS2020/"
-  title = "R01: Maternal Inflammation in Relation to Offspring Epigenetic Aging and Neurodevelopment"
-#  url = "https://drive.google.com/file/d/1gnyLHLm21IMX8qEVF-JeAGLE1zBVIFeu/view?usp=sharing"
-#  certificate_url = ""
-  date_start = "2023-06-01"
   date_end = ""
   description = """"""
   
