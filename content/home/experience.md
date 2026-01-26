@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Piscataway, New Jersey"
   date_start = "2023-09-05"
-  #date_end = "2023-12-19"
+  #date_end = "2025-12-19"
   description = """
   This course is an introduction to probability modeling as a basis for statistical inference. It lays a foundation in statistical theory for M.S., M.PH, and Ph.D. students. Multivariate calculus is required. 
   
