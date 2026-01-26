@@ -21,11 +21,10 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Principal Investigator, NIH (R01AG092615)"
 #  organization_url = "https://asaslds.github.io/SLDS2020/"
-  title = "R01: Addressing Population and Platform Heterogeneity in Epigenetic Clocks via Transfer Learning and
-Conformal Prediction Methods"
+  title = "R01: Addressing Population and Platform Heterogeneity in Epigenetic Clocks via Transfer Learning and Conformal Prediction Methods"
 #  url = "https://drive.google.com/file/d/1gnyLHLm21IMX8qEVF-JeAGLE1zBVIFeu/view?usp=sharing"
 #  certificate_url = ""
-  date_start = "2026-02-01"
+  date_start = "2026-01-26"
   date_end = ""
   description = """"""
 
