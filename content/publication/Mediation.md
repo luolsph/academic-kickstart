@@ -3,11 +3,11 @@
 
 title: "Multivariate dynamic mediation analysis under a reinforcement learning framework"
 authors: [Lan Luo*, Chengchun Shi*, Jitao Wang*, Zhenke Wu, Lexin Li]
-date: 2024-11-3T14:27:48-07:00
+date: 2025-11-3T14:27:48-07:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2024-11-03T14:27:48-07:00
+publishDate: 2025-11-03T14:27:48-07:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
