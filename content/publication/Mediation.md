@@ -16,7 +16,7 @@ publishDate: 2024-11-03T14:27:48-07:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "The Annals of Statistics (accepted)"
+publication: "The Annals of Statistics, 53(1), 400-425"
 publication_short: ""
 
 abstract: "
