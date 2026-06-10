@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 title = "Selected Publications"
-subtitle = "(* Co-first authors)"
+subtitle = "(* Co-first authors, # Corresponding authors)"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
